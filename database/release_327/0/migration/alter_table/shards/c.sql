@@ -1,0 +1,1 @@
+INSERT INTO `websites` VALUES ('7', '10kshuaizhang', 'https://www.google.cm/', '7', 'USA');

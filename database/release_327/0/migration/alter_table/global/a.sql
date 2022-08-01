@@ -1,0 +1,1 @@
+INSERT INTO `websites` VALUES ('9', 'Twitter', 'https://www.google.cm/', '9', 'USA');

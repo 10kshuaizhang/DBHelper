@@ -1,0 +1,1 @@
+INSERT INTO `websites` VALUES ('6', 'ddd', 'https://www.d.cm/', '6', 'USA');
